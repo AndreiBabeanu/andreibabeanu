@@ -11,7 +11,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year at B
 - 👯 I’m looking to collaborate on Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:babeanu.andrei99.com)](babeanu.andrei99@gmail.com)
+- 📫 How to reach me: (babeanu.andrei99@gmail.com)
 - ⚡ Definition of Insanity: "doing the same thing over and over and expecting different results" 
 
 
